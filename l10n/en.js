@@ -1,5 +1,5 @@
 ﻿"en": {
-    "defaultTitle" : "WalletGenerator.net - Universal Paper wallet generator for Ritocoin and other cryptocurrencies",
+    "defaultTitle" : "Ritocoin Paper Wallet Generator - Universal Paper wallet generator for Ritocoin and other cryptocurrencies",
     "title" : "Paper Wallet Generator",
     "bulkgeneratingaddresses": "Generating addresses... ",
     "brainalertpassphrasetooshort": "The passphrase you entered is too short.\n\n",

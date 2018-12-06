@@ -1,5 +1,5 @@
 "tr": {
-    "defaultTitle" : "WalletGenerator.net - Ritocoin ve diger kripto para birimleri için Evrensel Kagit cüzdan üreticisi",
+    "defaultTitle" : "Ritocoin Paper Wallet Generator - Ritocoin ve diger kripto para birimleri için Evrensel Kagit cüzdan üreticisi",
     "title" : "Kagit Cüzdan Üreticisi",
     "bulkgeneratingaddresses": "Cüzdan Yaratiliyor... ",
     "brainalertpassphrasetooshort": "Girmis oldugunuz parola çok kisa.\n\n",

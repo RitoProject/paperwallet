@@ -1,5 +1,5 @@
 ﻿"si": {
-    "defaultTitle" : "WalletGenerator.net - Univerzalni generator papirnatih/ denarnic/trezorjev za Ritocoin in ostale kriptovalute",
+    "defaultTitle" : "Ritocoin Paper Wallet Generator - Univerzalni generator papirnatih/ denarnic/trezorjev za Ritocoin in ostale kriptovalute",
     "title" : "Generator paprirnatih denarnic",
     "bulkgeneratingaddresses": "Generiram naslove... ",
     "brainalertpassphrasetooshort": "Vaša obnovitvena fraza/geslo je prekratka.\n\n",
